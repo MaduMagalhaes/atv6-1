@@ -3,5 +3,6 @@ html {
 }
 
 img{
-  background-attachment: scroll;
+  background-attachment: local;
+  text-align: center;
 }
